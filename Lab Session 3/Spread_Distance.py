@@ -16,3 +16,4 @@ print(s1)
 print(m2)
 print(s2)
 print(np.linalg.norm(m1-m2))
+
