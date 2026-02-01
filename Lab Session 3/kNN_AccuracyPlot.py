@@ -1,4 +1,5 @@
 import matplotlib.pyplot as p
+from sklearn.neighbors import KNeighborsClassifier
 a=[]
 k=range(1,12)
 for i in k:
